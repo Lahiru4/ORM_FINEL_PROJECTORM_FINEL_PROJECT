@@ -1,0 +1,6 @@
+package hostelmanagementsystem.util.factory.types;
+
+public enum ViewType {
+    ADD_STUDENT,DASHBOARD,FORGET_PASSWORD,HOME,LOGIN,MANAGE_ROOM,MANAGE_STUDENT,REMAINING_KEY_MONEY
+    ,RESERVE_ROOM,ROOM_RESERVATION_DETAIL
+}
